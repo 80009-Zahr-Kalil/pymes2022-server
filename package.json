@@ -1,0 +1,28 @@
+{
+  "name": "pymes2022-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"nodemon src/server.js \" \" cd ../pymes2022-client && ng serve -o\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/80009-Zahr-Kalil/pymes2022-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/80009-Zahr-Kalil/pymes2022-server/issues"
+  },
+  "homepage": "https://github.com/80009-Zahr-Kalil/pymes2022-server#readme",
+  "dependencies": {
+    "concurrently": "^7.2.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

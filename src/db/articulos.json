@@ -1,0 +1,112 @@
+[
+    {
+        "$id": "2",
+        "IdArticulo": 563,
+        "Nombre": "1) Bitcoin",
+        "Precio": 9999999,
+        "CodigoDeBarra": "7777777777777",
+        "IdArticuloFamilia": 9,
+        "Stock": 9999999,
+        "FechaAlta": "2001-01-01T00:00:00",
+        "Activo": true
+    },
+    {
+        "$id": "3",
+        "IdArticulo": 553,
+        "Nombre": "a no pongan tantas a ",
+        "Precio": 4614561,
+        "CodigoDeBarra": "1514545442311",
+        "IdArticuloFamilia": 5,
+        "Stock": 1212,
+        "FechaAlta": "1980-07-06T00:00:00",
+        "Activo": true
+    },
+    {
+        "$id": "4",
+        "IdArticulo": 552,
+        "Nombre": "AAAA34",
+        "Precio": 546145,
+        "CodigoDeBarra": "1464546145814",
+        "IdArticuloFamilia": 3,
+        "Stock": 5145145,
+        "FechaAlta": "2077-07-07T00:00:00",
+        "Activo": true
+    },
+    {
+        "$id": "5",
+        "IdArticulo": 551,
+        "Nombre": "AAAAA45",
+        "Precio": 454752,
+        "CodigoDeBarra": "7995345648246",
+        "IdArticuloFamilia": 7,
+        "Stock": 458417,
+        "FechaAlta": "1978-05-04T00:00:00",
+        "Activo": false
+    },
+    {
+        "$id": "6",
+        "IdArticulo": 547,
+        "Nombre": "aaaaaa",
+        "Precio": 55645,
+        "CodigoDeBarra": "4564545645645",
+        "IdArticuloFamilia": 3,
+        "Stock": 6876,
+        "FechaAlta": "2000-11-14T00:00:00",
+        "Activo": false
+    },
+    {
+        "$id": "7",
+        "IdArticulo": 543,
+        "Nombre": "aaaaabb",
+        "Precio": 1211,
+        "CodigoDeBarra": "1123123123323",
+        "IdArticuloFamilia": 1,
+        "Stock": 10,
+        "FechaAlta": "2020-01-10T00:00:00",
+        "Activo": true
+    },
+    {
+        "$id": "8",
+        "IdArticulo": 545,
+        "Nombre": "abrazo",
+        "Precio": 111,
+        "CodigoDeBarra": "1112222222222",
+        "IdArticuloFamilia": 4,
+        "Stock": 11,
+        "FechaAlta": "1901-01-22T00:00:00",
+        "Activo": true
+    },
+    {
+        "$id": "9",
+        "IdArticulo": 107,
+        "Nombre": "ADAPTADOR PCI WIFI TL-WN751ND EXTRA",
+        "Precio": 123,
+        "CodigoDeBarra": "0693536405056",
+        "IdArticuloFamilia": 9,
+        "Stock": 172,
+        "FechaAlta": "2017-01-15T00:00:00",
+        "Activo": true
+    },
+    {
+        "$id": "10",
+        "IdArticulo": 139,
+        "Nombre": "AIRE ACONDICIONADO DAEWOO 3200FC DWT23200FC",
+        "Precio": 5899,
+        "CodigoDeBarra": "0779816944014",
+        "IdArticuloFamilia": 5,
+        "Stock": 668,
+        "FechaAlta": "2017-01-04T00:00:00",
+        "Activo": false
+    },
+    {
+        "$id": "11",
+        "IdArticulo": 140,
+        "Nombre": "AIRE ACONDICIONADO DURABRAND 3500FC DUS35WCL4",
+        "Precio": 5499,
+        "CodigoDeBarra": "0779688543933",
+        "IdArticuloFamilia": 8,
+        "Stock": 945,
+        "FechaAlta": "2017-01-20T00:00:00",
+        "Activo": true
+    }
+]

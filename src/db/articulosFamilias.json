@@ -1,0 +1,52 @@
+[
+    {
+        "$id": "1",
+        "IdArticuloFamilia": 1,
+        "Nombre": "ACCESORIOS"
+    },
+    {
+        "$id": "2",
+        "IdArticuloFamilia": 2,
+        "Nombre": "AUDIO"
+    },
+    {
+        "$id": "3",
+        "IdArticuloFamilia": 3,
+        "Nombre": "CELULARES"
+    },
+    {
+        "$id": "4",
+        "IdArticuloFamilia": 4,
+        "Nombre": "CUIDADO PERSONAL"
+    },
+    {
+        "$id": "5",
+        "IdArticuloFamilia": 5,
+        "Nombre": "DVD"
+    },
+    {
+        "$id": "6",
+        "IdArticuloFamilia": 6,
+        "Nombre": "FOTOGRAFIA"
+    },
+    {
+        "$id": "7",
+        "IdArticuloFamilia": 7,
+        "Nombre": "FRIO-CALOR"
+    },
+    {
+        "$id": "8",
+        "IdArticuloFamilia": 8,
+        "Nombre": "GPS"
+    },
+    {
+        "$id": "9",
+        "IdArticuloFamilia": 9,
+        "Nombre": "INFORMATICA"
+    },
+    {
+        "$id": "10",
+        "IdArticuloFamilia": 10,
+        "Nombre": "LED - LCD"
+    }
+]
